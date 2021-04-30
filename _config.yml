@@ -1,6 +1,6 @@
 title: notenote.link
-name: My linked notebook
-user_description: notenote.link
+name: Teunis Polak #My linked notebook
+user_description: well, me #notenote.link
 notes_url: "https://notenote.link.netlify.app"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
@@ -8,11 +8,12 @@ copyright_name: MIT
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://notenote.link.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
+site.locale: "en-US" #toegevoegd, zie minimal-mistakes doc
 
 # Build settings
 theme: null
 plugins:
-  - jekyll-feed 
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-toc
 

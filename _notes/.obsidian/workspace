@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "cafafafe84d9fd5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28191b04659caa6a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Theme and typography.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6854108a37b9403f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a101cfdfb6ed09b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb52cd076d439df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c64697c9132a8b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "effc17de39586e62",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 304,
+    "collapsed": true
+  },
+  "active": "28191b04659caa6a",
+  "lastOpenFiles": [
+    "Theme and typography.md",
+    "Not poems.md",
+    "Untitled.md",
+    "TeX, TeX Live, MacTeX, BasicTeX, LaTex.md",
+    "TeX, TeX LLive, MacTeX, BasicTeX, LaTex.md",
+    "Installing-Jekyll,-Obsidian,-GitHub.md",
+    "Obsidian integration.md",
+    "How-to-setup-this-site.md",
+    "how-markdown-is-rendered.md",
+    "How to use the special features.md"
+  ]
+}
