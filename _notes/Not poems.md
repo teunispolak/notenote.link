@@ -22,7 +22,7 @@ We'll send scouting parties to collect books and stuff, and men like you'll teac
 _Not poems and rubbish - science, so we can get everything working._
 
 We'll build villages and towns and... and... we'll play each other at cricket!::wrap]]
-<br>
+
 
 The artilleryman's song above is based on the following fragment from the original book:
 [[
@@ -38,7 +38,7 @@ It's saving our knowledge and adding to it is the thing. There men like you come
 We must make great safe places down deep, and get all the books we can; not novels and poetry swipes, but ideas, science books. 
 
 That's where men like you come in. We must go to the British Museum and pick all those books through. Especially we must keep up our science — learn more.::wrap]]
-<br>
+
 
 Hmm... "There's books, there's models" - that would have made a nice title as well!
 

@@ -11,10 +11,12 @@
             </ul>
             <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
             {%- else -%}
+                <!--
                 <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
                     <li style="padding: 0 5px; border-radius: 10px;" class="tag">{{item.tags[0]}}</li>
                 </ul>
-                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+                -->
+                <p style="margin-top: 16px;" class="feed-title">{{ item.title }}</p>
             {%- endif -%}
             <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100}}</p>
             </a>
@@ -31,10 +33,12 @@
                 </ul>
                 <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
                 {%- else -%}
+                <!--
                 <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
                     <li style="padding: 0 5px; border-radius: 10px;" class="tag">{{item.tags[0]}}</li>
                 </ul>
-                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+                -->
+                <p style="margin-top: 16px;" class="feed-title">{{ item.title }}</p>
                 {%- endif -%}
                 <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100}}</p>
             </a>
@@ -51,10 +55,12 @@
                 </ul>
                 <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
                 {%- else -%}
+                <!--
                 <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
                     <li style="padding: 0 5px; border-radius: 10px;" class="tag">{{item.tags[0]}}</li>
                 </ul>
-                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+                -->
+                <p style="margin-top: 16px;" class="feed-title">{{ item.title }}</p>
                 {%- endif -%}
                 <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100}}</p>
             </a>
@@ -73,4 +79,3 @@
 </div>
 {%- endfor -%}
 {%- endif -%}
-
