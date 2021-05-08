@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theme and typography.md",
+            "file": "Color ordening.md",
             "mode": "source"
           }
         }
@@ -57,22 +57,46 @@
   "right": {
     "id": "effc17de39586e62",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "9847488df730de60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb86e863cf75727",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Color ordening.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 304,
     "collapsed": true
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
-    "Theme and typography.md",
-    "Not poems.md",
+    "Color ordening.md",
+    "Attachments/Pasted image 20210501184610.png",
+    "Tooltip.md",
+    "Measuring Color.md",
+    "Measuring Color 1.md",
     "Untitled.md",
-    "TeX, TeX Live, MacTeX, BasicTeX, LaTex.md",
-    "TeX, TeX LLive, MacTeX, BasicTeX, LaTex.md",
-    "Installing-Jekyll,-Obsidian,-GitHub.md",
-    "Obsidian integration.md",
-    "How-to-setup-this-site.md",
-    "how-markdown-is-rendered.md",
-    "How to use the special features.md"
+    "Not poems.md",
+    "Users/teunis/notpoemsandrubbish/_notes/Attachments/HuntPointerMeasuringColour.pdf.md",
+    "Munsell color system compiled/Munsell color system compiled.md",
+    "Munsell color system compiled/Kuehni2002-TheearlydevelopmentoftheMunsellsystem.pdf"
   ]
 }

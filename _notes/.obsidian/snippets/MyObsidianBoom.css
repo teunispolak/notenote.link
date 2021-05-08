@@ -1,0 +1,296 @@
+
+/* .markdown-preview-view */
+	.markdown-preview-view h1,
+	.markdown-preview-view h2,
+	.markdown-preview-view h3,
+	.markdown-preview-view h4,
+	.markdown-preview-view h5,
+	.markdown-preview-view h6 {
+		margin-top: 2em;
+		margin-bottom: 0px; }
+		
+	.markdown-preview-view h1 {
+		font-size: 35px; }
+	.markdown-preview-view h2 {
+		font-size: 28px; }
+	.markdown-preview-view h3 {
+		font-size: 21px; }
+	.markdown-preview-view h4 {
+		font-size: 17px; }
+	.markdown-preview-view h5 {
+		font-size: 14px; }
+	.markdown-preview-view h6 {
+		font-size: 14px;
+		color: var(--text-muted);
+		margin-top: 3em; }
+	
+	.markdown-preview-view hr {
+		margin-block-start: -0.5em;
+		margin-block-end: 2.0em; }
+
+		
+	/* Code in markdown preview */
+	.markdown-preview-view code, .theme-light code[class*="language-"], .theme-light pre[class*="language-"] {
+		font-size: 12px;
+		line-height: 1.25em; }
+			
+	.markdown-preview-view code {
+		color: var(--text-normal);
+		line-height: 1.25em }
+				
+	.markdown-preview-view pre {
+		line-height: 1.25em; }
+			
+		/* link to footnote, formatted identical to <sup> </sup> */ 
+		.markdown-preview-view a.footnote-link {
+		font-size: x-small;
+		vertical-align: 0.5em;
+		line-height: 0px;
+		text-decoration-line: none; 
+		margin-left: -2px}
+
+		
+	.markdown-preview-view .internal-link {
+	  	text-decoration: none; }
+	
+	.markdown-preview-view .internal-link:hover {
+	  	/*text-decoration: underline;*/ }
+	  
+	.markdown-preview-view .internal-link.is-unresolved {
+		opacity: 1.0; }
+	  
+	 .markdown-preview-view blockquote {
+		margin-inline-start: 0px; }
+	
+	/* Highlight colors */
+	.markdown-preview-view mark {
+		background-color: rgba(0, 231, 255, 0.29); }
+		
+	.markdown-preview-view blockquote {
+		margin-inline-start: 0px; }
+
+
+
+
+
+	.theme-light {
+		--text-color: #202b33;
+		--text-accent-hover: #202b33;
+		--side-dock-bg: #182026;
+		--side-dock-bg-hover: #202b33;
+		--side-dock-active: #202b33; }
+    
+    span.token.url {
+    	background: none !important; }
+    	
+    span.token.important {
+    	color: var(--text-normal) !important; }
+
+
+	/* Lists, unordered and ordered. Two levels of nesting */
+	ul, ol {
+		margin-block-start: -1em; }
+		
+	ul ul, ol ol, ul ol, ol ul {
+		margin-block-start: 0em; }
+
+	ul {
+		list-style-type: disc; }
+	
+	
+	.footnote-ref {
+		vertical-align: initial; }
+	
+	.footnote-backref {
+		margin-left: 2px !important }
+	
+	span.cm-footref {
+		display: revert;
+		font-size: revert;
+    	vertical-align: revert;
+    	margin-top: revert; }
+
+	
+	.external-link { 
+    	text-decoration: none;
+    	background-position-y: -1px; 
+    	background-size: 12px;
+    	padding-right: 15px; }
+
+		
+    
+	/* Insert [ ] around internal links #000*/
+	.internal-link::before{
+		content: "[";
+		color: var(--brackets-color); }
+	
+	.internal-link::after{
+		content: "]";
+		color: var(--brackets-color); }
+
+	/*
+	code, cm-inline-code {
+		font-family: var(--font-monospace); }
+	*/
+	
+code {
+	font-size: 12px; }
+	
+
+	/* Superscript, e.g. for deg C */
+	sup {
+		font-size: x-small;
+		vertical-align: 0.5em;
+		line-height: 0px; }
+
+a {
+  	color: var(--text-normal); }
+
+p {
+	margin-block-start: 0em; }
+	
+h5 {
+	text-transform: uppercase; }
+
+h1, h2, h3, h4, strong {
+    font-weight: 600; }
+
+html, body, h5, h6 {
+    font-weight: 500 !important;
+    font-style: normal !important;
+    font-size: 14px !important;
+    line-height: 21px !important;
+    text-size-adjust: 100% !important; }
+
+
+
+
+/* Side dock */
+	.side-dock-title {
+		font-size: 20px;
+		color: var(--brackets-color); }
+	
+	.side-dock-plugin-panel.mod-file-explorer, 
+	.side-dock-plugin-panel.mod-starred, 
+	.side-dock-ribbon-tab.is-after-active, 
+	.side-dock-ribbon-before.is-before-active,
+	.side-dock-ribbon-after.is-before-active {
+	   background-color: var(--side-dock-bg); }
+
+	/*Make folder title uppercase*/
+		.nav-folder-title {
+			font-size: 14px; }
+	
+	/* hover actions on sidebar*/
+	.side-dock-ribbon-tab:hover,
+	.side-dock-ribbon-tab-inner:hover,
+	.side-dock-ribbon-action:hover,
+	.side-dock-ribbon-action.is-active:hover,
+	.nav-action-button:hover,
+	.side-dock-collapse-btn:hover,
+	.side-dock-ribbon-tab.is-after-active:hover
+	{
+	  color: #ffffff;
+	  background-color: var(--side-dock-bg-hover); }
+	
+	.nav-file-title, .nav-folder.mod-root > .nav-folder-title, .side-dock-title, .nav-folder-title, .nav-file-title-content.is-being-renamed {
+		color: #5c7080;
+		filter: contrast(0.9); }
+	
+	/*Non hover actions*/
+	.nav-file.is-active > .nav-file-title, 
+	.nav-file.is-active > .nav-folder-title, 
+	.nav-file.is-active > .nav-folder-collapse-indicator, 
+	.nav-folder.is-active > .nav-file-title, 
+	.nav-folder.is-active > .nav-folder-title, 
+	.nav-folder.is-active > .nav-folder-collapse-indicator,
+	.side-dock-ribbon-tab.is-active {
+		background-color: var(--side-dock-active);
+		color: #ffffff; }
+	
+	/* color and background of titles hovered over in side bars */
+	body:not(.is-grabbing) .nav-file-title:hover,
+	body:not(.is-grabbing) .nav-folder-title:hover,
+	body:not(.is-grabbing) .nav-file-title:hover .nav-folder-collapse-indicator,
+	body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
+		background-color: var(--side-dock-bg-hover);
+		color: #ffffff; }
+
+
+
+/* Backlinks */
+	/*Make backlink panel white*/
+	.side-dock-plugin-panel.mod-backlinks {
+		background-color: #ffffff; }
+	
+	.search-result-file-title {
+		font-size: 16px;
+		color: #337ab7 }
+	
+	.search-result-file-title:hover {
+		background-color: #ffffff; }
+	
+	.search-result-file-match, .search-result-file-match:hover{
+		background-color: #f5f8fa;
+	}
+	
+	.obsidian-search-match-highlight {
+		background-color: #c2dbec; }
+	
+	.search-result-file-matched-text {
+		background-color: #dfe9f0; }
+
+
+/*
+	.view-header-title {
+		font-size: 28px;
+		font-weight: 500; }
+	
+	.view-header-title-container {
+		height: 44px; }
+*/
+
+.markdown-source-view, .markdown-preview-view{
+    color: #202b33;
+}
+
+.cm-s-obsidian pre.HyperMD-codeblock  {
+	/*font-family: var(--code-font-monospace)*/
+}
+
+
+/*change the color of text for links in editor */
+.cm-s-obsidian span.cm-link, .cm-s-obsidian span.cm-hmd-internal-link {
+    color:  #106ba3 !important;
+    text-decoration: none;
+}
+
+/* when you hover over an internal link it gets slightly darker */
+.cm-s-obsidian span.cm-link:hover, .cm-s-obsidian span.cm-hmd-internal-link:hover {
+ color:  #337ab7;
+}
+
+
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: rgba(0, 231, 255, 0.29);
+}
+
+/* References section */
+.search-result-file-matches {
+	color: #202b33;
+	font-size: 14px;
+}
+
+/*Border on header*/
+.workspace-leaf.mod-active .view-header {
+	border-bottom-style: None
+}
+
+
+
+/*Andy's mode*/
+.workspace-split.mod-vertical { overflow-x:auto; }
+.workspace-leaf, .workspace-split > .workspace-split { min-width: 500px; min-height: 500px; }
+.workspace-split.mod-horizontal { overflow-y: auto; }
+*/

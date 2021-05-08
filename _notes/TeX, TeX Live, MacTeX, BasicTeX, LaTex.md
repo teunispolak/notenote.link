@@ -6,16 +6,20 @@ toc: false
 How does LaTeX compare to the various TeX packages around? I've cut and pasted fragments from Wikipedia to get an overview.
 
 #### TeX
+[[Wikipedia: [TeX](https://en.wikipedia.org/w/index.php?title=TeX&oldid=1000199070)::rmn]]
 TeX is a typesetting or formatting system designed by Ronald Knuth and released in 1978. 
 
 TeX was designed with two main goals in mind: to allow anybody to produce high-quality books with minimal effort, and to provide a system that would give exactly the same results on all computers, at any point in time. [^1] 
 
 
 #### TeX Live
+[[Wikipedia: [TeX Live](https://en.wikipedia.org/w/index.php?title=TeX_Live&oldid=998469763)::rmn]]
 TeX Live is a cross-platform, free software distribution for the TeX typesetting system that includes major TeX-related programs, macro packages, and fonts. It is the replacement of its no-longer supported counterpart teTeX. It is now the default TeX distribution for several Linux distributions. [^2]
 
-For macOS, TeX Live is distributed via MacPorts. As an alternative route, the MacTeX site describes a TeX Live Unix install script.[ ](https://www.tug.org/mactex/mactex-unix-download.html)
-Once installed, TeX Live is maintained with tlmgr,[](https://www.tug.org/texlive/tlmgr.html) the TeX Live package and configuration manager. It operates completely separate from any regular package manager the OS may provide.
+For macOS, TeX Live is distributed via MacPorts. As an alternative route, the MacTeX site describes a TeX Live Unix install script.
+[[TeX Live [install script](https://www.tug.org/mactex/mactex-unix-download.html)::rmn]]
+Once installed, TeX Live is maintained with tlmgr,[[[tlmgr](https://www.tug.org/texlive/tlmgr.html)::rmn]]
+the TeX Live package and configuration manager. It operates completely separate from any regular package manager the OS may provide.
 
 
 #### MacTeX
@@ -40,9 +44,9 @@ LaTeX is intended to provide a high-level, descriptive markup language that acce
 
 ** References **
 
-[^1]: TeX. In: _Wikipedia_. ; 2021. Accessed January 22, 2021.[](https://en.wikipedia.org/w/index.php?title=TeX&oldid=1000199070)
+[^1]: TeX. In: _Wikipedia_. ; 2021. Accessed January 22, 2021. Wikipedia: [TeX](https://en.wikipedia.org/w/index.php?title=TeX&oldid=1000199070)
 
-[^2]: TeX Live. In: _Wikipedia_. ; 2021. Accessed January 22, 2021. [](https://en.wikipedia.org/w/index.php?title=TeX_Live&oldid=998469763)
+[^2]: TeX Live. In: _Wikipedia_. ; 2021. Accessed January 22, 2021. Wikipedia: [TeX Live](https://en.wikipedia.org/w/index.php?title=TeX_Live&oldid=998469763)
 
 [^3]: MacTeX. In: _Wikipedia_. ; 2020. Accessed January 22, 2021. [](https://en.wikipedia.org/w/index.php?title=MacTeX&oldid=994171736)
 

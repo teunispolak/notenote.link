@@ -5,7 +5,8 @@ toc: false
 ---
 
 This line from the artilleryman in The War of the Worlds [[
-Wikipedia: [The war of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds)::rmn]]
+Wikipedia: [The war of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds). 
+Wanna buy tickets for the next tour? See [Jeff Wayne's site](https://www.thewaroftheworlds.com)::rmn]]
 is probably the best description of my digital collection of notes, thoughts, ideas, theories and post-its. Almost all of the stuff I've tried to wrap my head around was to understand things from a theoretical point of view. Why are things working like they are? Or, as Fokke and Sukke [[
 Wikipedia: [Fokke & Sukke](https://en.wikipedia.org/wiki/Fokke_%26_Sukke)::rmn]]wondered: does it also work in theory?
 
@@ -29,8 +30,7 @@ The artilleryman's song above is based on the following fragment from the origin
 Wikisource: [The War of the Worlds](https://en.wikisource.org/wiki/The_War_of_the_Worlds/Book_2/Chapter_7). I never realized that The War of the Worlds was written between 1895 and 1897.::rmn]]
 
 [[
-<br>There is a persistent and funny story about a 1938 radio broadcast of The War of the Worlds causing a panic among the audience. True or not, the story is [here](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29)
-::rmn]]
+<br>There is a funny story about a 1938 radio broadcast of The War of the Worlds causing a panic among the audience. Hoax or not, the story is [here](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29). <br>Looking at the text of the [broadcast](https://www.sacred-texts.com/ufo/mars/wow.htm), a little panic doesn't look too strange... More on this broadcast, including its coverage in the papers afterwards, can be found [here](https://www.sacred-texts.com/ufo/mars/wow.htm)::rmn]]
 
 [[
 It's saving our knowledge and adding to it is the thing. There men like you come in. There's books, there's models. 
