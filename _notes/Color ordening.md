@@ -5,7 +5,7 @@ toc: false
 ---
 In 1905, A. H. Munsell argued that “color needs a system” [[
 See <a href="https://drive.google.com/file/d/16bqqGIdSOmWVKFwc54g4eqtJonIMtui9" class="tooltip">A Color Notation,<span><img class="callout" src="/assets/img/Munsell_(1905)_-_A_Color_Notation.jpg"></span>
-</a> p8::rmn]]to get rid of terms like peacock blue, Nile green and royal purple as such weak definitions invited mistakes and disappointment. The point he made was clear: color definition badly needed a consistent basis.
+</a>p8::rmn]]to get rid of terms like peacock blue, Nile green and royal purple as such weak definitions invited mistakes and disappointment. The point he made was clear: color definition badly needed a consistent basis.
 
 
 
