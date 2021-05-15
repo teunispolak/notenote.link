@@ -3,7 +3,7 @@ title: Not poems and rubbish - science!
 season: summer
 toc: false
 ---
-
+###### The origin of this notebook's title
 This line from the artilleryman in The War of the Worlds [[
 Wikipedia: [The war of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds). 
 Wanna buy tickets for the next tour? See [Jeff Wayne's site](https://www.thewaroftheworlds.com)::rmn]]
@@ -42,9 +42,7 @@ That's where men like you come in. We must go to the British Museum and pick all
 
 Hmm... "There's books, there's models" - that would have made a nice title as well!
 
-<br>
-<br>
-<br>
+
 
 
 

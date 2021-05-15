@@ -7,9 +7,9 @@
   as tooltip.css is ncluded in style.css, all css below is an extension
 */
 
-a.tooltip {outline:none; }
-a.tooltip strong {line-height:30px;}
-a.tooltip:hover {text-decoration:none;}
+/* a.tooltip {outline:none; } */
+/* a.tooltip strong {line-height:30px;} */
+/* a.tooltip:hover {text-decoration:none;} */
 
 a.tooltip span {
     z-index:10;display:none;

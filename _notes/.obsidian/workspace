@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Color ordening.md",
+            "file": "Digital gardens.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color ordening.md",
-                "collapseAll": false,
+                "file": "Digital gardens.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -83,20 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304,
+    "width": 100,
     "collapsed": true
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
-    "Color ordening.md",
-    "Attachments/Pasted image 20210501184610.png",
-    "Tooltip.md",
-    "Measuring Color.md",
-    "Measuring Color 1.md",
-    "Untitled.md",
+    "Digital gardens.md",
+    "Color order systems.md",
     "Not poems.md",
-    "Users/teunis/notpoemsandrubbish/_notes/Attachments/HuntPointerMeasuringColour.pdf.md",
-    "Munsell color system compiled/Munsell color system compiled.md",
-    "Munsell color system compiled/Kuehni2002-TheearlydevelopmentoftheMunsellsystem.pdf"
+    "Note taking.md",
+    "Zuurdesem.md",
+    "Desem batard.md",
+    "Backup and restore - Acronis.md",
+    "Ordering colors.md",
+    "Munsell Color System.md",
+    "Tooltip.md"
   ]
 }
