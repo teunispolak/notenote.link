@@ -8,13 +8,16 @@ toc: false
 ##### Trump
 [New York Times: Deutsche Bank](https://www.nytimes.com/2020/02/04/magazine/deutsche-bank-trump.html?action=click&module=RelatedLinks&pgtype=Article)
 
-Deutsche Bank account manager: ontslag pensionering account manager 31/12/2020, aankoop appartement Trump building, aanwezig bij inauguration. 
+Deutsche Bank account manager: ontslag pensionering account manager 31/12/2020, aankoop appartement Trump building, aanwezig bij inauguration. [NYT: Trump's history with Deutsche Bank](https://www.nytimes.com/2019/03/18/business/trump-deutsche-bank.html?action=click&module=RelatedCoverage&pgtype=Article&region=Footer)
 
-SDNY US Attorney general: ontslagen in mrt 2017 en twee maanden later aanklacht tegen Prevezon Holdings ingetrokken, toevallig ook een klant van Ntalia Veselnitskaya. Ja, die ja, van de fameuze June 16 meeting in Trump Tower
+[Overview of NYT articles on Deutsche Bank](https://www.nytimes.com/topic/company/deutsche-bank-ag)
+
+SDNY US Attorney general: ontslagen in mrt 2017 en twee maanden later aanklacht tegen Prevezon Holdings ingetrokken, toevallig ook een klant van Ntalia Veselnitskaya. Ja, die ja, van de fameuze June 9 meeting in Trump Tower. Zie endnote 117, 118, 119 van Center of American Progress
 
 [NYT:Bharara fired](https://www.nytimes.com/2017/03/11/us/politics/preet-bharara-us-attorney.html)
 
-Center for American Progress: [Trump and Russia-linked Transactions](https://www.americanprogress.org/issues/democracy/reports/2018/12/17/464235/following-the-money/) Hier onder 117, 118, 119 het verhaal over Prevezon
+Center for American Progress: [Trump and Russia-linked Transactions](https://www.americanprogress.org/issues/democracy/reports/2018/12/17/464235/following-the-money/) 
+
 
 Opmerking Donald jr 2015 of 2016: geld uit Rusland
 
