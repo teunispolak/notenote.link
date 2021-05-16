@@ -3,11 +3,16 @@ title: Developing stories
 season: summer
 toc: false
 ---
-###### We ain't seen nothing yet
+###### Stay tuned - we ain't seen nothing yet
 
 ##### Trump
-[New York Times](https://www.nytimes.com/2020/02/04/magazine/deutsche-bank-trump.html?action=click&module=RelatedLinks&pgtype=Article)
-Deutsche Bank ontslag pensionering account manager 31/12/2020, aankoop appartement Trump building, aanwezig bij inauguration. Opmerking Donald jr 2015 of 2016: geld uit Rusland
+[New York Times: Deutsche Bank](https://www.nytimes.com/2020/02/04/magazine/deutsche-bank-trump.html?action=click&module=RelatedLinks&pgtype=Article)
+
+Deutsche Bank account manager: ontslag pensionering account manager 31/12/2020, aankoop appartement Trump building, aanwezig bij inauguration. 
+
+SDNY attorney general: ontslagen in feb 2017 en twee weken later aanklacht tegen ... ingetrokken
+
+Opmerking Donald jr 2015 of 2016: geld uit Rusland
 
 
 ##### 2016 election interference
