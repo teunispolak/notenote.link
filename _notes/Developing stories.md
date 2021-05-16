@@ -41,9 +41,13 @@ Grappig: heel veel tekst over het Steele dossier. Het zal, maar het kan toch nie
 
 
 ##### The Jan 6, 2021 insurrection
-Congressional hearing Miles, Rosen, May 2021 - bij nader inzien
+Congressional hearing Miles, Rosen, May 2021 - "bij nader inzien" toch een iets ander verhaal dan eerder
 
 Miles benoemd door Trump vlak voor Jan 6
 
 The National Guard extreem laat ten tonele
+
+
+##### 2021 Vote suppression legislation
+[Historical perspective](https://heathercoxrichardson.substack.com/p/may-14-2021)
 
