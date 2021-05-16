@@ -9,6 +9,19 @@ reprint uit Atlantic Monthly http://worrydream.com/refs/Bush%20-%20As%20We%20May
 
 Progressive Summarization https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/
 
+How to read an Engineering research paper 
+https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html
+https://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf
+
+Zettelkasten
+https://eugeneyan.com/writing/note-taking-zettelkasten/
+https://zettelkasten.de/posts/
+https://forum.obsidian.md/t/obsidian-zettelkasten/1999
+https://forum.obsidian.md/t/simple-zettelkasten-guide/3054
+
+Zotero
+https://www.zotero.org/support/kb/page_not_recognized  als volledig automatisch uploaden naar zotero niet lukt
+
 Obsidian Vault to digital garden https://dev.to/yordiverkroost/publish-your-obsidian-vault-to-your-digital-garden-5bf8
 
 Setting up digital garden with Jekyll https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll

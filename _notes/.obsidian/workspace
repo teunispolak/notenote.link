@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digital gardens.md",
+            "file": "Lumen, RQ and RER.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital gardens.md",
+                "file": "Lumen, RQ and RER.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
-    "Digital gardens.md",
+    "Lumen, RQ and RER.md",
     "Color order systems.md",
-    "Not poems.md",
+    "Untitled.md",
+    "_cblade.m.md",
+    "_angvel.m.md",
+    "Een steekproef van 1.md",
+    "Digital gardens.md",
     "Note taking.md",
-    "Zuurdesem.md",
-    "Desem batard.md",
-    "Backup and restore - Acronis.md",
-    "Ordering colors.md",
-    "Munsell Color System.md",
-    "Tooltip.md"
+    "Attachments/HuntPointerMeasuringColour.pdf.md",
+    "how-markdown-is-rendered.md"
   ]
 }
