@@ -10,7 +10,11 @@ toc: false
 
 Deutsche Bank account manager: ontslag pensionering account manager 31/12/2020, aankoop appartement Trump building, aanwezig bij inauguration. 
 
-SDNY attorney general: ontslagen in feb 2017 en twee weken later aanklacht tegen ... ingetrokken
+SDNY US Attorney general: ontslagen in mrt 2017 en twee maanden later aanklacht tegen Prevezon Holdings ingetrokken, toevallig ook een klant van Ntalia Veselnitskaya. Ja, die ja, van de fameuze June 16 meeting in Trump Tower
+
+[NYT:Bharara fired](https://www.nytimes.com/2017/03/11/us/politics/preet-bharara-us-attorney.html)
+
+Center for American Progress: [Trump and Russia-linked Transactions](https://www.americanprogress.org/issues/democracy/reports/2018/12/17/464235/following-the-money/) Hier onder 117, 118, 119 het verhaal over Prevezon
 
 Opmerking Donald jr 2015 of 2016: geld uit Rusland
 
@@ -25,4 +29,12 @@ Grappig: heel veel tekst over het Steele dossier. Het zal, maar het kan toch nie
 [Covid virus origins](https://www.washingtonpost.com/nation/2021/05/14/coronavirus-covid-live-updates-us/)
 
 [Washington Post editorial with links](https://www.washingtonpost.com/opinions/global-opinions/how-did-the-pandemic-begin-its-time-for-a-new-who-investigation/2021/04/30/e1a2e702-a9dc-11eb-8c1a-56f0cb4ff3b5_story.html)
+
+
+##### The Jan 6, 2021 insurrection
+Congressional hearing Miles, Rosen, May 2021 - bij nader inzien
+
+Miles benoemd door Trump vlak voor Jan 6
+
+The National Guard extreem laat ten tonele
 
