@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Developing stories.md",
+            "file": "Site design.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing stories.md",
+                "file": "Site design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
+    "Site design.md",
     "Developing stories.md",
+    "Theme and typography.md",
+    "Note taking.md",
     "Netlify.md",
     "Untitled.md",
     "Lumen, RQ and RER.md",
     "Color order systems.md",
     "_cblade.m.md",
-    "_angvel.m.md",
-    "Een steekproef van 1.md",
-    "Digital gardens.md",
-    "Note taking.md"
+    "_angvel.m.md"
   ]
 }
