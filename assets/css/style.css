@@ -14,6 +14,7 @@ layout: stylesheet
 
 html {
     scroll-behavior: smooth;
+    font-size: 15px;            /* this defines rem as 14 px */
 }
 
 body {
@@ -84,7 +85,7 @@ h3 {
 }
 
 h4 {
-    font-size: 18px; /* 19px; */
+    font-size: 1.2rem; /* 19px; */
     line-height: 1.5;
     /* margin-top: 38px;
     margin-bottom: -22.5px; */
@@ -92,23 +93,23 @@ h4 {
 
 /* Paragraph heading. Normal font, 500px */
 h5 {
-    font-size: 15px; /* 16px; */
+    font-size: 1rem; /* 16px; */
     line-height: 1.5;
-    margin-bottom: -15px;
+    margin-bottom: -1rem;
 }
 
 /* Note title subheading. Normal font, inter-paragraph spacing */
 h6 {
-    font-size: 15px;
+    font-size: 1rem;
     line-height: 1.5;
-    margin-top: 15px;
-    margin-bottom: 22.5px;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #555555;
     font-family:  "Museo Sans", Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-weight: 500; /* 600; */
+    font-weight: 400; /* 600; */
 }
 
 a, p, ul, li, ol, table, span, blockquote {
