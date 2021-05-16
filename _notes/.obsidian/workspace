@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Site design.md",
+            "file": "Developing stories.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Site design.md",
+                "file": "Developing stories.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
-    "Site design.md",
     "Developing stories.md",
+    "Site design.md",
     "Theme and typography.md",
     "Note taking.md",
     "Netlify.md",

@@ -22,6 +22,12 @@ Center for American Progress: [Trump and Russia-linked Transactions](https://www
 Opmerking Donald jr 2015 of 2016: geld uit Rusland
 
 
+[NYT Trump Taxes](https://www.nytimes.com/2020/10/31/us/trump-taxes-readers-guide.html)
+
+[NYT Trump Finances](https://www.pulitzer.org/winners/david-barstow-susanne-craig-and-russ-buettner-new-york-times)
+
+
+
 ##### 2016 election interference
 [US Senate investigation report](https://www.intelligence.senate.gov/publications/report-select-committee-intelligence-united-states-senate-russian-active-measures)
 
