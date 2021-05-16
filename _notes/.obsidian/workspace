@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lumen, RQ and RER.md",
+            "file": "Developing stories.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lumen, RQ and RER.md",
+                "file": "Developing stories.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
+    "Developing stories.md",
+    "Untitled.md",
     "Lumen, RQ and RER.md",
     "Color order systems.md",
-    "Untitled.md",
     "_cblade.m.md",
     "_angvel.m.md",
     "Een steekproef van 1.md",
     "Digital gardens.md",
     "Note taking.md",
-    "Attachments/HuntPointerMeasuringColour.pdf.md",
-    "how-markdown-is-rendered.md"
+    "Attachments/HuntPointerMeasuringColour.pdf.md"
   ]
 }
