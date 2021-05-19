@@ -2,6 +2,8 @@
 title: Note taking
 season: summer
 toc: false
+category: notebook
+tags: notebook
 ---
 
 Vannevar Bush, 1945 tekst http://csis.pace.edu/~marchese/CS835/Lec3/bush.pdf

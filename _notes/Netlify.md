@@ -2,6 +2,8 @@
 title: Netlify
 season: summer
 toc: false
+category: theme
+tags: theme
 ---
 ###### Publish Jekyll-site from git
 

@@ -2,6 +2,8 @@
 title: Open ergo
 season: summer
 toc: false
+category: rowing
+tags: rowing
 ---
 
 een arduino display 

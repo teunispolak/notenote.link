@@ -2,6 +2,8 @@
 title: Theme and typography
 season: summer
 toc: false
+category: theme
+tags: theme
 ---
 Starting from the notenote.link template, I've made some adjustments to the layout.
 [[[notenote.link](https://github.com/Maxence-L/notenote.link) is a fork of the [simply-jekyll](https://github.com/raghuveerdotnet/simply-jekyll) theme::rmn]]

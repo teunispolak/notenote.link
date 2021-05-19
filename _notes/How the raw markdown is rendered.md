@@ -2,6 +2,8 @@
 title: How the raw markdown is rendered
 season: summer
 toc: false
+category: theme
+tags: theme
 ---
 
 This is intended as a quick reference and showcase. 

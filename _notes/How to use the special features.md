@@ -1,9 +1,10 @@
 ---
 title: How to use notenote.link features on your website
 season: summer
-tags: Theme
+tags: theme
 toc: true
 comments: true
+category: theme
 ---
 
 ## The default features

@@ -2,6 +2,8 @@
 title: Installing Jekyll, Obsidian, GitHub
 toc: false
 season: summer
+category: theme
+tags: theme
 ---
 
 Forked from https://github.com/Maxence-L/notenote.link and followed the instructions as indicated here https://notenote.link/notes/how-to-setup-this-site

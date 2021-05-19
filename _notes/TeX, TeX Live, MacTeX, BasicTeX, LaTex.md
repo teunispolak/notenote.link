@@ -2,6 +2,8 @@
 title: TeX, TeX Live, MacTeX, BasicTeX, and LaTex
 season: summer
 toc: false
+category: IT
+tags: IT
 ---
 How does LaTeX compare to the various TeX packages around? I've cut and pasted fragments from Wikipedia to get an overview.
 

@@ -2,6 +2,8 @@
 title: Site design
 season: summer
 toc: false
+category: theme
+tags: theme
 ---
 ###### ToDo and further enhancements
 

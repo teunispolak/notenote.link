@@ -2,6 +2,8 @@
 title: Tooltip
 season: summer
 toc: false
+category: theme
+tags: theme
 ---
 <a href="https://codepen.io/anon/pen/rgPKvy" class="tooltip">
     Link

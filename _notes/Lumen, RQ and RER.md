@@ -2,6 +2,8 @@
 title: Lumen, RQ and RER
 season: summer
 toc: false
+category: rowing
+tags: rowing
 ---
 ###### Burning fat or carbs?
 

@@ -2,6 +2,8 @@
 title: Ordering colors
 season: summer
 toc: false
+category: color
+tags: color
 ---
 ###### Science based pleasing colors
 

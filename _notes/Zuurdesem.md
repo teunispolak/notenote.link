@@ -2,6 +2,8 @@
 title: Zuurdesem
 season: summer
 toc: false
+category: bakken
+tags: bakken
 ---
 
 weekend baker [](https://www.weekendbakery.com/posts/rye-sourdough-starter-in-easy-steps/comment-page-1/#comments)

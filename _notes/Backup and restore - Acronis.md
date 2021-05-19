@@ -2,6 +2,8 @@
 title: Acronis bootable disk
 season: summer
 toc: false
+categogry: IT
+tags: IT
 ---
 
 Als ik de Recovery van Acronis goed begrijp zijn dit de stappen om een bootdisk te maken en  een corrupt of niet-werkend macOS te overschrijven

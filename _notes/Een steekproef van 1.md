@@ -2,6 +2,8 @@
 title: Een steekproef van 1
 season: winter
 toc: false
+category: rowing
+tags: rowing
 ---
 
 HRmax = 174

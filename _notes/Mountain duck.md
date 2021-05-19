@@ -2,6 +2,8 @@
 title: Mountain duck
 season: summer
 toc: false
+category: IT
+tags: IT
 ---
 Eerst wordt de disk (de cloud storage dus) vanuit /Users/teunis/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes in de sidebar geladen.
 Vervolgens wordt de Findersync extension geladen en verandert het logo in die achtelijke eend (ehh... kutduck?). Als je in System Preferences/Extensions/Finder extensions de extension disabelt, dan zie je het voor je ogen gebeuren.

@@ -2,6 +2,8 @@
 title: Desem batard
 season: summer
 toc: false
+category: bakken
+tags: bakken
 ---
 Uit Boek over brood, met schema van Ken Follet.
 

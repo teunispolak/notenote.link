@@ -1,7 +1,8 @@
 ---
 title: How to setup this site
-tags: Theme
+tags: theme
 season : summer
+category: theme
 ---
 
 This is going to be a super simple post about how to setup and use this theme for your own website.
