@@ -5,7 +5,7 @@ toc: false
 category: IT
 tags: IT
 ---
-How does LaTeX compare to the various TeX packages around? I've cut and pasted fragments from Wikipedia to get an overview.
+###### How does LaTeX compare to the various TeX packages around? I've cut and pasted fragments from Wikipedia to get an overview.
 
 #### TeX
 [[Wikipedia: [TeX](https://en.wikipedia.org/w/index.php?title=TeX&oldid=1000199070)::rmn]]

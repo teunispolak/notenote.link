@@ -89,6 +89,7 @@ h4 {
     line-height: 1.5;
     /* margin-top: 38px;
     margin-bottom: -22.5px; */
+    margin-bottom: -0.2rem;
 }
 
 /* Paragraph heading. Normal font, 500px */
@@ -839,8 +840,8 @@ span.mn-right:hover a {
 }
 
 .content a {
-    color: #4183c4;
-    text-decoration: none;
+    /* color: #4183c4;
+    text-decoration: none; */
 }
 
 .content a:hover {

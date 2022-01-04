@@ -1,0 +1,7 @@
+{
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "MyObsidianBoom"
+  ],
+  "baseFontSize": 15
+}

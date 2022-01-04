@@ -39,7 +39,10 @@ Donald Jr 2008: disporportiante amount of money from Russia. En Eric deed er in 
 - [Covid virus origins](https://www.washingtonpost.com/nation/2021/05/14/coronavirus-covid-live-updates-us/)
 - [Washington Post editorial with links](https://www.washingtonpost.com/opinions/global-opinions/how-did-the-pandemic-begin-its-time-for-a-new-who-investigation/2021/04/30/e1a2e702-a9dc-11eb-8c1a-56f0cb4ff3b5_story.html)
 - [NYT 2021 05 13](https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html?surface=intl-hp-discovery&fellback=false&req_id=312012066&algo=identity&variant=0_identity&pool=pool/3f8a4003-9a98-4f4e-a295-8544267be6e2&imp_id=586970518&action=click&module=Science%20%20Technology&pgtype=Homepage)
-
+- [WaPo 2021 05: How the Wuhan lab-leak theory suddenly became credible](https://www.washingtonpost.com/politics/2021/05/25/timeline-how-wuhan-lab-leak-theory-suddenly-became-credible/)
+- [WaPo 202106-24: Deleted coronavirus genetic data](https://www.washingtonpost.com/health/coronavirus-origin-nih-gene-sequence-deletion/2021/06/23/186e87d0-d437-11eb-a53a-3b5450fdca7a_story.html)
+- [NYT 2021 o6 14; A top virologist in China ... speaks out](https://www.nytimes.com/2021/06/14/world/asia/china-covid-wuhan-lab-leak.html)
+- [NYT 2021 06 25: The warnings about the coronavirus that were ignored](https://www.nytimes.com/2021/06/25/opinion/coronavirus-lab.html?action=click&module=Opinion&pgtype=Homepage)
 
 
 ##### The Jan 6, 2021 insurrection

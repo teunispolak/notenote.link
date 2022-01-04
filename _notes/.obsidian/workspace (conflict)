@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lumen, RQ and RER.md",
-            "mode": "source",
-            "source": false
+            "file": "Printing - pipeline.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lumen, RQ and RER.md",
+                "file": "Printing - pipeline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
-    "Lumen, RQ and RER.md",
-    "IT - Apple Mail, backup, restore, export and migration.md",
-    "IT - MacBook R groot onderhoud.md",
-    "IT - Theme and typography.md",
-    "IT - How to use the special features.md",
-    "Color order systems.md",
-    "Munsell Color System.md",
-    "Ordering colors.md",
-    "IT - TeX, TeX Live, MacTeX, BasicTeX, LaTex.md",
-    "Not poems.md"
+    "Untitled.md",
+    "How-to-setup-this-site.md",
+    "Blisters.md",
+    "Grains.md",
+    "Untitled 1.md",
+    "Color appearance - luminance.md",
+    "Bulk fermentation.md",
+    "Sticky dough.md",
+    "Sourdough.md",
+    "Cinnamon rolls.md"
   ]
 }

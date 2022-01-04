@@ -1,5 +1,5 @@
 ---
-title: How to use notenote.link features on your website
+title: How to use the special features
 season: summer
 tags: theme
 toc: true
@@ -11,7 +11,7 @@ category: theme
 
 All the default jekyll markdown features are made available such that they don't cause any conflict with the custom features that we have implemented. 
 
-Internal links (simple and with alt-text) and LateX delimiters in markdown are compatible with [[Obsidian::https://obsidian.md]]. I'd recommend using it as a CMS for managing your notes. See the page about [[Obsidian integration]] for more details.
+Internal links (simple and with alt-text) and LateX delimiters in markdown are compatible with [[Obsidian::https://obsidian.md]]. I'd recommend using it as a CMS for managing your notes. See the page about [[IT - Obsidian integration]] for more details.
 
 To see how to the raw markdown gets generated, go to the [[Test page to see how the raw markdown is rendered]]
 
@@ -37,7 +37,7 @@ Example of an internal link that points to a valid post or page, that is, a page
 
 > **Raw Syntax:** **[​[**​Obsidian integration**]]**
 >
-> **Rendered Text:** [[Obsidian integration]]
+> **Rendered Text:** [[IT - Obsidian integration]]
 
 
 Example of an internal link that do not point to a valid post or page, that is, a page with the title (not url) mentioned in the double brackets.
