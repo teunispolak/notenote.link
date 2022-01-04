@@ -1,5 +1,5 @@
 ---
-title: IT - MacBook R groot onderhoud
+title: MacBook R groot onderhoud
 season: summer
 toc: false
 category: IT
@@ -8,7 +8,7 @@ tags: IT
 ###### Wat te doen als een mid-2012 Apple MacBook Pro [[[MacBook Pro9.2 specs](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.5-13-mid-2012-unibody-usb3-specs.html) en [CPU benchmark](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-3210M+%40+2.50GHz&id=815)::rmn]]vooral strandballen laat zien?
  
   
-#### Verwijderd
+#### Verwijderen
 ##### Google Chrome
 Verwijderd. Daarmee is ook het risico verdwenen dat de automatische Google Update veel performance vraagt. Dat doet het namelijk, plus dat er om onduidelijke redenen een tweede update proces probeerde te starten (not responding).
 ##### Seagate
@@ -23,13 +23,13 @@ Niet nodig
 Wat een rommeltje was dat zeg. Uiteindelijk alles met [[RemoveSymantecMacFiles](https://knowledge.broadcom.com/external/article?legacyId=TECH103489)] kunnen verwijderen
 
 
-#### Geïnstalleerd
+#### Installeren
 - CleanMyMac
 - AppZapper [MAG WEER WEG]
 - MacsFanControl
 - EtreCheck
 
-#### System Preferences aangepast
+#### System Preferences aanpassen
 ##### FileVault
 
 Encryptie uitgezet
@@ -112,13 +112,13 @@ Login items: Mac Fans Control toegevoegd
 
 Uitgezet
 
-#### PowerChime
+#### Error log onderzoeken: PowerChime
 Meldingen in syslog onderdrukken: 
 ```
 defaults write com.apple.PowerChime ChimeOnNoHardware -bool false ; killall PowerChime
 ```
   
-#### Backup
+#### Backup maken
 Time Machine blijft hangen in “Preparing backup”. Laatste TM backup is van 3 okt, dus de files sindsdien moeten naar de externe schijf.
 ```
 touch -t "202110030000" LastTimeMachineDate
