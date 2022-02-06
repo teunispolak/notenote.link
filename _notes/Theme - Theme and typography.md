@@ -5,6 +5,8 @@ toc: false
 category: theme
 tags: theme
 ---
+###### The main adjustments to the template, and the core of the layout
+
 Starting from the notenote.link template, I've made some adjustments to the layout.
 [[[notenote.link](https://github.com/Maxence-L/notenote.link) is a fork of the [simply-jekyll](https://github.com/raghuveerdotnet/simply-jekyll) theme::rmn]]
 The underlying idea is to get full focus on the content, not on the layout - minimalism to the max.
@@ -18,7 +20,7 @@ Ref. [Butterick's Practical Typography](https://practicaltypography.com/)::rmn]]
 #### Sidenotes 
 [[
 Examples of sidenotes and margin notes can be be found [here](https://www.gwern.net/Sidenotes)::rmn]]
-I've adjusted the css file to get minmium distraction from the sidenotes (margin notes actually, because they're not numbered). When you hover the sidenotes the text beomes more visible and url's are underlined. Font size 10px, line height 1.5.
+I've adjusted the css file to get minmium distraction from the sidenotes (margin notes actually, because they're not numbered). When you hover the sidenotes the text becomes more visible and url's are underlined. Font size 10px, line height 1.5.
 
 #### Headings
 - h3 --> 19px

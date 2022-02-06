@@ -1,8 +1,8 @@
 ---
-title: Argyll - own modifications
+title: Argyll - Own modifications
 season: summer
 toc: false
-tags: develop
+tags: printing
 ---
 Build directories
 

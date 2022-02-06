@@ -1,8 +1,8 @@
 ---
-title: Argyll - vanilla install 1.9.2, 2.0.1
+title: Argyll - Vanilla install 1.9.2, 2.0.1
 season: summer
 toc: false
-tags: develop
+tags: printing
 ---
 Installation directories
 

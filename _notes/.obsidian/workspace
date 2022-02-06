@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT - MacBook R groot onderhoud.md",
+            "file": "Bakken - Baguette Tradition.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT - MacBook R groot onderhoud.md",
+                "file": "Bakken - Baguette Tradition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
-    "IT - MacBook R groot onderhoud.md",
-    "Lumen, RQ and RER.md",
-    "IT - Apple Mail, backup, restore, export and migration.md",
-    "IT - Theme and typography.md",
-    "IT - How to use the special features.md",
-    "Color order systems.md",
-    "Munsell Color System.md",
-    "Ordering colors.md",
-    "IT - TeX, TeX Live, MacTeX, BasicTeX, LaTex.md",
-    "Not poems.md"
+    "Bakken - Baguette Tradition.md",
+    "Bakken - Pain rustique.md",
+    "Bakken - Oven.md",
+    "Bakken - Mueslibrood.md",
+    "Bakken - Sourdough.md",
+    "Drafts - Optics/Wiener deconvolution.md",
+    "Drafts - Optics/Van Cittert deconvolution.md",
+    "Drafts - Optics/Spatial Resolution.md",
+    "Drafts - Optics/Slanted Edge.md",
+    "Drafts - Optics/Richardson-Lucy deconvolution.md"
   ]
 }

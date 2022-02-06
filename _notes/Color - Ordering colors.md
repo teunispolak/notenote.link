@@ -18,4 +18,4 @@ https://blog.hubspot.com/marketing/color-theory-design
 
 https://blog.hubspot.com/marketing/color-theory-design#Refer%20to%20a%20color%20wheel%20to%20identify%20analogous%20colors.
 
-[[Color order systems]]
+[[Color - Color order systems]]

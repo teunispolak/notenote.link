@@ -5,7 +5,7 @@ toc: false
 tags: koffie
 ---
 
-Schoonmaken, onderdelen QuickMill 3002en MiniMoka 207
+###### Schoonmaken, onderdelen QuickMill 3002 en MiniMoka 207
 
 DR Trading heeft ook onderdelen MiniMoka geloof ik
 

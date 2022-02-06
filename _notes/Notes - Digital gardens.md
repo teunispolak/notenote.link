@@ -3,7 +3,7 @@ title: Digital gardens
 season: summer
 toc: false
 category: digital garden
-tags: notebook
+tags: notes
 ---
 
 

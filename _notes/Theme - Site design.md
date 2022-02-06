@@ -16,7 +16,7 @@ tags: theme
 5. [x] Minder font-size varianten
 6. [x] Meer "open" font? Museo Sans ipv IBM Plex Sans? En hoe zit 't met de headings?
 7. Search
-8. Link naar pdf meteen tooltip met thumbnail
+8. Link naar pdf met een tooltip met thumbnail
 9. Related en linked notes links of rechts, niet midden-onder
 10. Automatische update en push naar github
 11. Categorize notes. Filter by category on front page.

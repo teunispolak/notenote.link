@@ -2,7 +2,7 @@
 title: Developing stories
 season: summer
 toc: false
-tags: developing
+tags: politics
 ---
 ###### Stay tuned - we ain't seen nothing yet
 

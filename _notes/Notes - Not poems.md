@@ -3,7 +3,7 @@ title: Not poems and rubbish - science!
 season: summer
 toc: false
 category: notebook
-tags: notebook
+tags: notes
 ---
 ###### The origin of this notebook's title
 This line from the artilleryman in The War of the Worlds [[

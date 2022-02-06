@@ -43,7 +43,7 @@ Encryptie uitgezet
 
 
 
- ```
+```
 sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
 Password:
 /System/Library/LaunchDaemons/com.apple.metadata.mds.plist: Operation not permitted while System Integrity Protection is engaged
@@ -80,7 +80,9 @@ Indexing and searching disabled.
 
 ##### AppStore
 
-Auto update uitgezet, wel auto download. Laat updates eerst maar even rijpen, maak dan een backup, verwijder de externe schijf en voer dan de update of updates stap voor stap uit. Wacht een week voordat je een nieuwe backup maakt; die overschrijft namelijk de situatie van voor de backup…
+Auto update uitgezet, wel auto download. Laat updates eerst maar even rijpen, maak dan een backup, verwijder de externe schijf en voer dan de update of updates stap voor stap uit. 
+
+PM: Bij image-copy: wacht een week na upgrade voordat je een nieuwe backup maakt; die overschrijft namelijk de vorige
   
 ##### Accessibility, onder Display
 
@@ -115,9 +117,12 @@ Uitgezet
 #### Error log onderzoeken: PowerChime
 Meldingen in syslog onderdrukken: 
 ```
-defaults write com.apple.PowerChime ChimeOnNoHardware -bool false ; killall PowerChime
+defaults write com.apple.PowerChime ChimeOnNoHardware -bool false; killall PowerChime
 ```
-  
+
+#### SMC en NVRAM resetten
+
+
 #### Backup maken
 Time Machine blijft hangen in “Preparing backup”. Laatste TM backup is van 3 okt, dus de files sindsdien moeten naar de externe schijf.
 ```
@@ -132,15 +137,21 @@ En omdat het kan, doen we ook een extra setje met álle user files: wel zo makke
 find /Users/pietjepuk/./Desktop/ \! -name ".*" -exec rsync -v -t -R {} '/Volumes/Seagate Backup Plus Drive/GewoonAlles/' \;
 ```
 
-Gewoon alles betekent: Desktop, Documents, en Downloads.
-
-Daarnaast: Library/mail, en mail preferences (zie [[IT - Apple Mail, backup, restore, export and migration]])
-
-O ja, en de enige hidden folder: .Belastingdienst
+Gewoon alles betekent: Desktop, Documents en Downloads.
 
 GewoonAlles
 rsync newer (skip tenzij nieuwer)
 rsync: ook niet de .dmg
+Helaas, pindakaas. Ergens halverwege eruit geknikkerd. Time-out op de verbinding veroorzaakt door een hang op de hard drive read?
+
+Daarnaast: Library/mail, en mail preferences (zie [[IT - Apple Mail, backup, restore, export and migration]])
+Mail: 68472 items, 12.63GB
+
+Op externe schijf: 63170 items, 12.7 GB
+
+O ja, en de enige hidden folder: .Belastingdienst
+
+
 
 tooltje om TM backup te bekijken - waarom zo groot?
 

@@ -1,8 +1,8 @@
 ---
-title: Color appearance - luminance
+title: Luminance
 season: summer
 toc: false
-tags: color_appearance
+tags: color
 ---
 The Hunt effect
 

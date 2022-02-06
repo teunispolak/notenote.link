@@ -1,5 +1,5 @@
 ---
-title: Argyll - illuminant and FWA settings
+title: Argyll - Illuminants and FWA settings
 season: summer
 toc: false
 category: printing

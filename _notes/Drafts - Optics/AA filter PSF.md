@@ -1,0 +1,1 @@
+In Zeiss MTF Curven, PSF nr 8 is for an AA filter

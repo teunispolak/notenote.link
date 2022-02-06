@@ -12,7 +12,7 @@ Lijkt op weekendbakker
 Desem rogge-gebaseerd
 
 #### Recept
--   320g desem [[Zuurdesem]]
+-   320g desem [[Bakken - Zuurdesem starter]]
 -   640g bloem (T65)
 -   360g (335 - 375) water  
 -   16g zout
