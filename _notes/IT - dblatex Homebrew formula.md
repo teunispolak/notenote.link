@@ -14,6 +14,7 @@ The homebrew site [^2] describes a generic workflow to create formula. I used th
 <br>
 
 1. Create Homebrew formula for dblatex. Save the text below as ~/Documents/dblatex.rb
+
 ```md
 # source: https://gist.github.com/phracker/70c29891f38494675170
 
