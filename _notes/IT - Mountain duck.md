@@ -1,11 +1,18 @@
 ---
-title: Mountain duck
+title: Mountain Duck
 season: summer
 toc: false
-category: IT
-tags: IT
+category: printing
+tags: printing
 ---
-Eerst wordt de disk (de cloud storage dus) vanuit /Users/teunis/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes in de sidebar geladen.
+Hoe werkt het mounten van de "disk" in de Finder Sidebar
+De app en de FinderSync extension
+app bevat /plugin/Mountain Duck Finder Extension.appex
+
+
+
+
+Eerst wordt de disk vanuit /Users/teunis/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes in de sidebar geladen.
 Vervolgens wordt de Findersync extension geladen en verandert het logo in die achtelijke eend (ehh... kutduck?). Als je in System Preferences/Extensions/Finder extensions de extension disabelt, dan zie je het voor je ogen gebeuren.
 
 [Apple Developer](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/Finder.html#//apple_ref/doc/uid/TP40014214-CH15-SW1) heeft het in de App Extension Programming Guide allemaal netjes uitgelegen. Maar helaas, zo werkt Mountain Duck niet, of ik heb het niet goed opgevolgd. 

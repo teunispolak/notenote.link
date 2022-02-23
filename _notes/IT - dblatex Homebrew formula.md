@@ -1,5 +1,12 @@
+---
+title: dblatex Homebrew formula
+season: summer
+toc: false
+category: IT
+tags: IT
+---
 #### Background
-Homebrew has no formual to install dblatex, which is one of the dependencies for MTF Mapper.
+Homebrew has no formula to install dblatex, which is one of the dependencies for MTF Mapper.
 
 The homebrew site [^2] describes a generic workflow to create formula. I used the steps in [^1].
 
@@ -7,7 +14,7 @@ The homebrew site [^2] describes a generic workflow to create formula. I used th
 <br>
 
 1. Create Homebrew formula for dblatex. Save the text below as ~/Documents/dblatex.rb
-```rb
+```md
 # source: https://gist.github.com/phracker/70c29891f38494675170
 
 require 'formula'

@@ -1,3 +1,11 @@
+---
+title: OSX 10.13.4 to 10.13.6 (High Sierra)
+season: summer
+toc: false
+category: IT
+tags: IT
+---
+
 The short version is: download and install a so-called Combo Update.
 
 

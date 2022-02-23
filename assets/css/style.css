@@ -34,7 +34,7 @@ body {
     /*align-items: center; */
     max-width: 789px; /* 1200px; */
     margin-right: auto;
-    margin-left: 426px; /* .382 * (1904-789)*auto; */
+    margin-left: calc((100vw - 1250px) * 0.618); /* 426px   .382 * (1904-789)*auto; */
 }
 
 .box {

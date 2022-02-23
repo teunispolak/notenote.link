@@ -1,3 +1,10 @@
+---
+title: SuperDuper!
+season: summer
+toc: false
+category: IT
+tags: IT
+---
 Take Control of Backing Up your Mac (3.1)
 
 [[TCoBackingUpYourMac-3.1.pdf]]

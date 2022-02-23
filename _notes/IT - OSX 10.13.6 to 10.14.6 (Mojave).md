@@ -1,3 +1,11 @@
+---
+title: OSX 10.13.6 to 10.14.6 (Mojave)
+season: summer
+toc: false
+category: IT
+tags: IT
+---
+
 The short version is: 
 - Check hardware compatibilty
 - Download and the install macOS Mojave app

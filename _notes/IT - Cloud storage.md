@@ -1,3 +1,10 @@
+---
+title: Cloud storage
+season: summer
+toc: false
+category: printing
+tags: printing
+---
 #### Amazon S3 en Glacier
 Via arq ooit mee begonnen, nog een of twee Euro per maand
 Account eindigt op 928, maandelijkse factuur.

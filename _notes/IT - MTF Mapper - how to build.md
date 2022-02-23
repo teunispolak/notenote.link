@@ -1,4 +1,10 @@
-
+---
+title: MTF Mapper - how to build
+season: summer
+toc: false
+category: IT
+tags: IT
+---
 
 
 ### Background
@@ -12,7 +18,7 @@ The build instruction is for Mojave (10.14.6) only partly because Homebrew no lo
 
 A slight complication from using Homebrew as the package manager is that we have to create the Homebrew package (formula in Homebrew speak) ourselves.
 
-Note: Homebrew doesn't have a so-called Homebrew core formula for dblatex so I created one myself, using examples on Github. See [[Homebrew create dblatex formula]].
+Note: Homebrew doesn't have a so-called Homebrew core formula for dblatex so I created one myself, using examples on Github. See [[IT - dblatex Homebrew formula]].
 
 Using the macPorts-based build instruction [^2]  as a starting point, the homebrew version is as follows
 

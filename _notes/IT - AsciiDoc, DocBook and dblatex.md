@@ -1,3 +1,10 @@
+---
+title: AsciiDoc, DocBook and dblatex
+season: summer
+toc: false
+category: IT
+tags: IT
+---
 #### AsciiDoc
 AsciiDoc is a human-readable document format, using plain-text mark-up conventions. AsciiDoc documents can be created using any text editor and read “as-is”, or rendered to HTML or any other format supported by a DocBook tool-chain, i.e. PDF, TeX, Unix manpages, e-books, slide presentations, etc. [^1]
 

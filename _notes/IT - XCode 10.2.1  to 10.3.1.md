@@ -1,3 +1,10 @@
+---
+title: XCode 10.2.1 to 10.3.1
+season: summer
+toc: false
+category: printing
+tags: printing
+---
 #### Goal
 Upgrade to the highest possible version supported on OSX Mojave, OSX 10.14.6
 

@@ -1,3 +1,10 @@
+---
+title: XCode 9.4 to 10.2.1
+season: summer
+toc: false
+category: printing
+tags: printing
+---
 #### Goal
 Upgrade to the highest possible version supported on OSX High Sierra, OSX 10.13.6
 

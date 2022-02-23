@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bakken - Baguette Tradition.md",
+            "file": "Drafts - Taking notes/Formatting.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 336
   },
   "right": {
     "id": "effc17de39586e62",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bakken - Baguette Tradition.md",
+                "file": "Drafts - Taking notes/Formatting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "28191b04659caa6a",
   "lastOpenFiles": [
-    "Bakken - Baguette Tradition.md",
-    "Bakken - Pain rustique.md",
-    "Bakken - Oven.md",
-    "Bakken - Mueslibrood.md",
-    "Bakken - Sourdough.md",
-    "Drafts - Optics/Wiener deconvolution.md",
-    "Drafts - Optics/Van Cittert deconvolution.md",
-    "Drafts - Optics/Spatial Resolution.md",
-    "Drafts - Optics/Slanted Edge.md",
-    "Drafts - Optics/Richardson-Lucy deconvolution.md"
+    "Drafts - Taking notes/Formatting.md",
+    "IT - dblatex Homebrew formula.md",
+    "Drafts - Testvault/Format Notes (from Obsidian Help).md",
+    "Notes - Note taking.md",
+    "Notes - Not poems.md",
+    "Theme - Site design.md",
+    "Theme - Theme and typography.md",
+    "Notes - Digital gardens.md",
+    "Drafts - Taking notes/How to read an engineering research paper.md",
+    "Drafts - Taking notes/Untitled.md"
   ]
 }
